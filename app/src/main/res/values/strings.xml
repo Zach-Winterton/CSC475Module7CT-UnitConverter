@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+    <string-array name="conversion_types">
+        <item>Celsius to Fahrenheit</item>
+            <item>Fahrenheit to Celsius</item>
+            <item>Meters to Kilometers</item>
+            <item>Kilometers to Meters</item>
+            <item>Grams to Kilograms</item>
+            <item>Kilograms to Grams</item>
+        </string-array>
+
+</resources>
